@@ -1,4 +1,4 @@
-# TRIVA CARD
+# TRIVIA CARD
 ## Introduction
 A project using jQuery by following step-by-step instructions to add jQuery Effects to the Trivia Card on the right and user to be able to read the clue, view an optional hint, and select their answer.
 
@@ -30,6 +30,6 @@ Project is completed as required.
 
 ## Author/Contact
 * M. Christopher
-* GitHub: 
+* GitHub: https://mcheroajdn.github.io/Trivia-Card-jQuery/
 
 
